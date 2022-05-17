@@ -98,18 +98,6 @@
 
 }
 
-.description__two-colums{
-  margin-top: 100px;
-  margin-bottom:100px;
-  width: 80%;
-  display:flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-between;
-
-
-}
-
 .two-colums__brief{
   align-self: flex-start;
   flex-wrap: wrap;
