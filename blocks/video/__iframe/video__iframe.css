@@ -1,0 +1,14 @@
+.video__iframe {
+  margin-left: 20px;
+  width: 515px;
+  height: 316px;
+  border: none;
+  list-style: none;
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
+}
+
+.video__iframe:first-child {
+  margin-left: 0;
+}

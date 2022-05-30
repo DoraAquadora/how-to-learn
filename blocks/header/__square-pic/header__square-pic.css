@@ -1,7 +1,6 @@
 .header__square-pic {
   text-align: start;
   position: absolute;
-  animation: rotation 20s linear infinite;
   background-color: #2f80ed;
   width: 568px;
   height: 568px;
