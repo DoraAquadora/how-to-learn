@@ -9,8 +9,8 @@
 
 # Технологии
 
-Flexbox
-Positioning Elements
+*Flexbox
+*Positioning Elements
 Animation and Transform using CSS
 Iframe
 BEM Methodology
