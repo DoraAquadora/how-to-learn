@@ -9,13 +9,13 @@
 
 # Технологии
 
-*Flexbox
-*Positioning Elements
-Animation and Transform using CSS
-Iframe
-BEM Methodology
-File Structure and File Paths (Nested BEM)
-Git
+* Flexbox
+* Positioning Elements
+* Animation and Transform using CSS
+* Iframe
+* BEM Methodology
+* File Structure and File Paths (Nested BEM)
+* Git
 
 # Инструкция по установке
 
